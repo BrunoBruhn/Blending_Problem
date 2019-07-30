@@ -7,7 +7,7 @@ https://www.me.utexas.edu/~jensen/ORMM/models/unit/linear/subunits/blending/inde
 -visit https://www.gurobi.com/downloads/end-user-license-agreement-academic/ to retrieve licence
 -visit https://vpn.rwth-aachen.de
 -select webvpn
--enter jb765875, klappe11
+-enter TIM and PW
 -install cisco and login
 -enter grbgetkey XXX-XXX ... into CMD line to install license
 -navigate to C:\gurobi\win64 via cmd line
